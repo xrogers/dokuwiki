@@ -5,6 +5,7 @@ class httpclient_http_proxy_test extends DokuWikiTest {
 
     /**
      * @group internet
+     * @group proxy
      */
     function test_simpleget(){
         $http = new HTTPClient();
