@@ -1,0 +1,7 @@
+base   authmysqli
+author Lech Groblewicz
+email  kontakt@znpd.pl
+date   2014-06-14
+name   MYSQLi Auth Plugin
+desc   Provides user authentication against a MySQL database using MySQLi connector (based upon Andreas Gohr's <andi@splitbrain.org> mysql plugin)
+url    http://www.dokuwiki.org/plugin:authmysqli
